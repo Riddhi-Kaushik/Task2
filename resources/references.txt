@@ -1,0 +1,25 @@
+References
+
+1. IBM
+   https://www.ibm.com
+
+2. Microsoft AI
+   https://www.microsoft.com/ai
+
+3. Microsoft News
+   https://news.microsoft.com
+
+4. Google DeepMind
+   https://deepmind.google
+
+5. World Health Organization (WHO)
+   https://www.who.int
+
+6. NITI Aayog
+   https://www.niti.gov.in
+
+7. Intel
+   https://www.intel.com
+
+8. Amazon Web Services (AWS)
+   https://aws.amazon.com
